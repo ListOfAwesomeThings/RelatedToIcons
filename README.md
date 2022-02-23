@@ -1,4 +1,4 @@
-# Welcome to ListOfAwesomeThings!
+# Welcome to ListOfAwesomeThings RelatedToIcons!
 Hi! You can contribute too!
 
 ## Font Icons
@@ -6,3 +6,7 @@ Hi! You can contribute too!
  - https://linearicons.com/free
  - https://fontawesome.com
  - https://themes-pixeden.com/font-demos/7-stroke/
+
+## PNG/SVG Icons
+
+ - https://www.flaticon.com/
