@@ -10,3 +10,4 @@ Hi! You can contribute too!
 ## PNG/SVG Icons
 
  - https://www.flaticon.com/
+ - https://heroicons.com/
